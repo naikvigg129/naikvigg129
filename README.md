@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">👋 I'm Vignesh R Naik<br>🔧 Experienced in Embedded Hardware Design: | Schematic Design | PCB Layout | Hardware Bring-up |<br>👨‍💻 Learning to master Embedded Firmware: | Embedded C | Python | RTOS |<br>🔒 Exploring Embedded Cybersecurity: | BadUSB | HID Attacks | BLE Sniffing | RFID/NFC | Wireless Attacks |<br>📊 Learning SI/PI Analysis:| Cadence Sigrity | Sigrity Topology</h2>
+<h2 align="left">👋 I'm Vignesh R Naik<br>🔧 Experienced in Embedded Hardware Design: | Schematic Design | PCB Layout | Hardware Bring-up |<br>👨‍💻 Learning to master Embedded Firmware: | Embedded C | Python | RTOS |<br>🔒 Exploring Embedded Cybersecurity: | BadUSB | HID Attacks | BLE Sniffing | RFID/NFC | Wireless Attacks |<br>📊 Learning SI/PI Analysis:| Cadence Sigrity | HyperLynx</h2>
 
 ###
 
