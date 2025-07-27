@@ -17,7 +17,7 @@
 <h2 align="left"></h2>
 
 ###
-
+<h1 align="left">💻 Coding Languages</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -30,6 +30,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="images/SW_too/1.png" height="40" alt="1logo"  />
 </div>
 
+
 ###
+<h1 align="left">📱 Hardware Tools</h1>
+<div align="left">
+  <img src="images/HW_too/1.png" height="40" alt="1logo"  />
+  <img width="12" />
+  <img src="images/HW_too/2.png" height="40" alt="2logo"  />
+  <img width="12" />
+  <img src="images/HW_too/3.png" height="40" alt="3logo"  />
+  <img width="12" />
+  <img src="images/HW_too/4.png" height="40" alt="4logo"  />
+</div>
+
+
+###
+<h1 align="left">🧰 Simulation Tools</h1>
+<div align="left">
+  <img src="images/SM_too/1.png" height="40" alt="1logo"  />
+  <img width="12" />
+  <img src="images/SM_too/2.png" height="40" alt="2logo"  />
+  <img width="12" />
+  <img src="images/SM_too/3.png" height="40" alt="3logo"  />
+  <img width="12" />
+  <img src="images/SM_too/4.png" height="40" alt="4logo"  />
+</div>
+
+
