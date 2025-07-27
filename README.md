@@ -24,10 +24,6 @@
   <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
 
@@ -51,7 +47,7 @@
   <img width="12" />
   <img src="https://github.com/naikvigg129/naikvigg129/blob/2ba12bece7b3c9db7731be040b33ec6059219679/Images/SM_tool/3.png" height="40" alt="3logo"  />
   <img width="12" />
-  <img src="https://github.com/naikvigg129/naikvigg129/blob/2ba12bece7b3c9db7731be040b33ec6059219679/Images/SM_tool/4.png" height="40" alt="4logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
 </div>
 
 
