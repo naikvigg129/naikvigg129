@@ -45,13 +45,13 @@
 ###
 <h1 align="left">🧰 Simulation Tools</h1>
 <div align="left">
-  <img src="https://github.com/naikvigg129/naikvigg129/blob/099f1e548abfeb391e4f06560ee2097c565f013f/images/SM_tool/1.png" height="40" alt="1logo"  />
+  <img src="https://github.com/naikvigg129/naikvigg129/blob/2ba12bece7b3c9db7731be040b33ec6059219679/images/SM_tool/1.png" height="40" alt="1logo"  />
   <img width="12" />
-  <img src="https://github.com/naikvigg129/naikvigg129/blob/099f1e548abfeb391e4f06560ee2097c565f013f/images/SM_tool/2.png" height="40" alt="2logo"  />
+  <img src="https://github.com/naikvigg129/naikvigg129/blob/2ba12bece7b3c9db7731be040b33ec6059219679/images/SM_tool/2.png" height="40" alt="2logo"  />
   <img width="12" />
-  <img src="https://github.com/naikvigg129/naikvigg129/blob/099f1e548abfeb391e4f06560ee2097c565f013f/images/SM_tool/3.png" height="40" alt="3logo"  />
+  <img src="https://github.com/naikvigg129/naikvigg129/blob/2ba12bece7b3c9db7731be040b33ec6059219679/images/SM_tool/3.png" height="40" alt="3logo"  />
   <img width="12" />
-  <img src="https://github.com/naikvigg129/naikvigg129/blob/099f1e548abfeb391e4f06560ee2097c565f013f/images/SM_tool/4.png" height="40" alt="4logo"  />
+  <img src="https://github.com/naikvigg129/naikvigg129/blob/2ba12bece7b3c9db7731be040b33ec6059219679/images/SM_tool/4.png" height="40" alt="4logo"  />
 </div>
 
 
